@@ -53,7 +53,6 @@ def create_queries(twitter_credentials, parameters):
 def obtain_tweets(twitter, queries, inverse_geo_mapping):
     start = time.time()
     tweets = []
-    names_of_interest = ["Alexis","Tsipras","Kyriakos","Kiriakos","Mitsotakis"]
     for query in queries:
         for status in twitter.search(**query)['statuses']:
             new_tweet = {'user': [], 'date': [], 'text': [], 'favorite_count': []}
@@ -92,7 +91,7 @@ def entity_sentiment(text, client):
 
     return result
 
-def apply_sentiment(df, client):
+def apply_sentiment(df, client, names_of_interest):
     start = time.time()
     df["object_of_sentiment"], df["salience"], df["magnitude"], df["sentiment_score"] = None, None, None, None
     for i,r in df.iterrows():
@@ -115,10 +114,12 @@ parameters = {"geo":
                "Europe": {"lat":52.5200,"long":13.4050, "radius":1000}},
              "keywords":
               ["syriza","tsipras","nea dimokratia","nd","mitsotakis"]}
+			  
+names_of_interest = ["Alexis","Tsipras","Kyriakos","Kiriakos","Mitsotakis"]
 
 twitter, queries, inverse_geo_mapping = create_queries(twitter_credentials,parameters)
 df = obtain_tweets(twitter, queries, inverse_geo_mapping)
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="google_credentials.json"
 client = language.LanguageServiceClient()
-df = apply_sentiment(df, client)
+df = apply_sentiment(df, client, names_of_interest)
 df.to_csv("tweets.csv")
