@@ -9,6 +9,10 @@ from google.cloud.language import types
 import six
 import sys
 import time
+import string
+
+# set variables
+printable = list(string.printable)
 
 def create_queries(twitter_credentials, parameters):
 
@@ -37,7 +41,7 @@ def create_queries(twitter_credentials, parameters):
             geo_query += "mi"
             query = {
                 'q': keyword,
-                'count': 1000,
+                'count': 1,
                 'lang': 'en',
                 'geocode': geo_query
             }
@@ -55,7 +59,7 @@ def obtain_tweets(twitter, queries, inverse_geo_mapping):
             new_tweet = {'user': [], 'date': [], 'text': [], 'favorite_count': []}
             new_tweet['user'] = status['user']['screen_name']
             new_tweet['date'] = status['created_at']
-            new_tweet['text'] = status['text']
+            new_tweet['text'] = ''.join(i for i in status['text'] if i in printable)
             new_tweet['favorite_count'] = status['favorite_count']
             new_tweet['keyword'] = query['q']
             new_tweet['location'] = inverse_geo_mapping[query["geocode"]]
@@ -89,6 +93,7 @@ def entity_sentiment(text, client):
     return result
 
 def apply_sentiment(df, client):
+    start = time.time()
     df["object_of_sentiment"], df["salience"], df["magnitude"], df["sentiment_score"] = None, None, None, None
     for i,r in df.iterrows():
         sentiment_result = entity_sentiment(r["text"], client)
@@ -98,6 +103,8 @@ def apply_sentiment(df, client):
                 df.loc[i,"salience"] = entity.salience
                 df.loc[i,"magnitude"] = entity.sentiment.magnitude
                 df.loc[i,"sentiment_score"] = entity.sentiment.score
+    end = time.time()
+    print("Applying sentiment took {} seconds.".format(end-start))
 
     return df
 
@@ -113,4 +120,5 @@ twitter, queries, inverse_geo_mapping = create_queries(twitter_credentials,param
 df = obtain_tweets(twitter, queries, inverse_geo_mapping)
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="google_credentials.json"
 client = language.LanguageServiceClient()
-# df = apply_sentiment(df)
+df = apply_sentiment(df, client)
+df.to_csv("tweets.csv")
