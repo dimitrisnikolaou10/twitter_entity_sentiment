@@ -41,7 +41,7 @@ def create_queries(twitter_credentials, parameters):
             geo_query += "mi"
             query = {
                 'q': keyword,
-                'count': 1,
+                'count': 2,
                 'lang': 'en',
                 'geocode': geo_query
             }
