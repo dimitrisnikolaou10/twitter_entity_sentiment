@@ -1,22 +1,446 @@
 ,date,favorite_count,keyword,location,text,user,object_of_sentiment,salience,magnitude,sentiment_score
-0,Sun Jun 23 17:18:34 +0000 2019,0,syriza,Athens,RT @yanisvaroufakis: @elsa_sklavounou The only impediment to the Right's absolute majority in Parliament is MeRA25's entry into Parliament.,schierhangl,,,,
-1,Sun Jun 23 16:42:12 +0000 2019,0,syriza,Athens,"RT @yanisvaroufakis: @aris_tsagkaris @elsa_sklavounou If only you were right Ari, if only. I would like nothing more than to fold our tent",PeterGr61209195,,,,
-2,Mon Jun 17 12:45:46 +0000 2019,0,syriza,Thessaloniki,"@alexjshea @thesefootytimes Thank you very very much. This group have only this article to ""prove"" relations betwee https://t.co/Eg6YjwtaEl",IRAKLIS_OF,,,,
-3,Sat Jun 15 09:25:23 +0000 2019,1,syriza,Thessaloniki,So is this the only example you may come up with from the Greek political life? No paradigms from the side of Syriz https://t.co/xFW8exkZ5O,Spyros_Litsas,,,,
-4,Sun Jun 23 16:25:38 +0000 2019,0,syriza,Europe,@yanisvaroufakis @elsa_sklavounou 5 seats from ND? Youre sure? Not from SYRIZA?,chris_lemarie,,,,
-5,Sun Jun 23 13:22:37 +0000 2019,0,syriza,Europe,@FotisKokotos PASOK was like that too but we tend to forget. Of course SYRIZA is much worse.,atheniancapital,,,,
-6,Sun Jun 23 17:00:26 +0000 2019,0,tsipras,Athens,PM Tsipras Warns Turkey to Not Even Think about Conducting Drilling in Kastellorizo https://t.co/HasSP0F1S1 #Greece #news,GreeceOutsideIn,Tsipras,0.4247744679450989,0.0,0.0
-7,Sun Jun 23 12:00:20 +0000 2019,0,tsipras,Athens,PM Tsipras Realistically Optimistic about the Outcome of National Elections https://t.co/zPTDqIDIN2 #Greece #news,GreeceOutsideIn,,,,
-8,Sat Jun 22 17:03:30 +0000 2019,1,tsipras,Thessaloniki,"@Tsipras_int2 @Ek_deksion They finish us, boy",oapenanti,,,,
-9,Sat Jun 22 12:33:19 +0000 2019,17,tsipras,Thessaloniki,@Tsipras_int2 Give them the ending knock Prothipourg! Send them unread!,MAROOZx,,,,
-10,Sun Jun 23 13:52:14 +0000 2019,1,tsipras,Europe,@al_verix They realised how much theyve pissed off voters so Tsipras locked them up. Anarchists my...idiots!,atheniancapital,Tsipras,0.08538882434368134,0.10000000149011612,-0.10000000149011612
-11,Sat Jun 22 19:15:12 +0000 2019,0,tsipras,Europe,"RT @EURACTIV: Greece's @tsipras_eu: Unfortunately, the need to take Weber off the table negatively affected other candidates,"" such as Tim",thdalvad,,,,
-12,Wed Jun 19 21:16:10 +0000 2019,0,nea dimokratia,Athens,RT @BrunoTersago: Greece: how journalism and politics are intertwined. Journalist publicly thanks opposition leader Mitsotakis on camera fo,xavi_pl,Mitsotakis,0.10846184194087982,1.100000023841858,0.5
-13,Tue Jun 18 19:07:15 +0000 2019,5,nea dimokratia,Europe,"Both my most beloved men, my dad and grandpa were Tories (UK) and Nea Dimokratia (Greece). Although I am sad they a https://t.co/fToAhS3ODe",MatinaLiosi,,,,
-14,Sun Jun 23 07:31:11 +0000 2019,0,nd,Thessaloniki,RT @Yianni99: Anyone else's phone been on silent since like 2016?,banele_nd,,,,
-15,Sun Jun 23 18:26:00 +0000 2019,0,nd,Europe,My  Playlist. Enjoy.  https://t.co/Mn2m2Iwq9P,mlkndct,,,,
-16,Sun Jun 23 18:25:43 +0000 2019,4,nd,Europe,Hi bby i want to fingr u pls be mine i will b urs frever and i will keep u hppy we will hv so mich sex nd hvv so ma https://t.co/okdXuwwjT2,SubIimeSadioV21,,,,
-17,Sun Jun 23 13:01:57 +0000 2019,0,mitsotakis,Athens,Open letter to Mitsotakis for the annulment of the Prespa lake agreement on Macedonia https://t.co/cpRknQJIIK via @wordpressdotcom,democracycrisis,Mitsotakis,0.11817263811826706,0.10000000149011612,0.10000000149011612
-18,Sat Jun 22 20:17:56 +0000 2019,1,mitsotakis,Athens,"@ReutersUK Kyriakos Mitsotakis, son of previous Conservative Greek prime minister, brother of former Conservative m https://t.co/rnxLjEeFNJ",teacherdude,,,,
-19,Fri Jun 21 19:39:52 +0000 2019,0,mitsotakis,Thessaloniki,RT @asteris: Mitsotakis continues the disgraceful far-right pandering of the Samaras admin by painting refugees as invaders. https://t.co/r,lilyinfidel,Mitsotakis,0.12021873146295547,0.800000011920929,-0.800000011920929
-20,Sat Jun 22 11:56:08 +0000 2019,2,mitsotakis,Europe,"@George_Gardener @Tsipras_int2 When you are in the antipolitefs, you say to the bahalakides to burn the Eye again, https://t.co/giF3nk4SqP",obikris,,,,
+0,Sun Jul 21 14:41:32 +0000 2019,0,syriza,Athens,RT @BrunoTersago: New Greek government to submit provision for slashing ENFIA tax by 20 pct in August https://t.co/6Cri0zPUbQ Wasn't this a,faidr,,,,
+1,Sun Jul 21 12:51:30 +0000 2019,0,syriza,Athens,"RT @OmairaGill: So in the two weeks since New Democracy came into power we've had a freak cyclone in northern Greece, torrential summer rai",ioannou_dim,,,,
+2,Sun Jul 21 09:23:39 +0000 2019,14,syriza,Athens,New Greek government to submit provision for slashing ENFIA tax by 20 pct in August https://t.co/6Cri0zPUbQ Wasn't https://t.co/ZoGMON6QXq,BrunoTersago,,,,
+3,Sun Jul 21 06:51:53 +0000 2019,1,syriza,Athens,"@GreekAnalyst Different cultures, different approaches.
+Truly hope that 4  Syriza nightmare is put behind us.
+Lets https://t.co/B39cgupbZe",ggoufas,,,,
+4,Sat Jul 20 14:38:38 +0000 2019,0,syriza,Athens,RT @adiavroxoi: @OmairaGill I think you are a syriza supporter. Dont mess with the Greek gods. They dont like atheists like syrizas part,CuriousIsaurian,,,,
+5,Sat Jul 20 14:35:19 +0000 2019,3,syriza,Athens,@OmairaGill I think you are a syriza supporter. Dont mess with the Greek gods. They dont like atheists like syriz https://t.co/qoFaNIN4PW,adiavroxoi,,,,
+6,Sat Jul 20 04:59:56 +0000 2019,0,syriza,Athens,RT @yanisvaroufakis: How Syrizas capitulations allowed the Greek right to escape the dustbin of history: The left-wing partys embrace of,QuitoDelaCruz,,,,
+7,Fri Jul 19 14:11:22 +0000 2019,2,syriza,Athens,@OmairaGill @Cult24gr maybe the syriza voters are low iq people,elias244,,,,
+8,Sat Jul 20 05:46:37 +0000 2019,0,syriza,Thessaloniki,"RT @VTsaxarli: @OmairaGill Now that you mention it honey, Enceladus was a second class deity, not a god but a Giant, never made it to A-lis",sheikyerbutti,,,,
+9,Fri Jul 19 22:56:40 +0000 2019,21,syriza,Thessaloniki,"@OmairaGill Now that you mention it honey, Enceladus was a second class deity, not a god but a Giant, never made it https://t.co/Eq8sz5Fy39",VTsaxarli,,,,
+10,Sat Jul 13 17:36:03 +0000 2019,0,syriza,Thessaloniki,RT @experimentalis: Rats jumping from the sheep. Slavoj Zizek: Syriza's election defeat was secured the moment they caved in to the forces,ioannaztaliou,,,,
+11,Sat Jul 13 15:58:13 +0000 2019,0,syriza,Thessaloniki,Rats jumping from the sheep. Slavoj Zizek: Syriza's election defeat was secured the moment they caved in to the for https://t.co/PT3dhCyn4A,experimentalis,,,,
+12,Sat Jul 13 06:59:19 +0000 2019,0,syriza,Thessaloniki,"RT @teacherdude: In an onscreen TV outburst, Babis Papadimitriou, Greek journalist (and now New Democracy MP) accused fellow reporters with",DirenenSerdar,,,,
+13,Fri Jul 12 10:06:07 +0000 2019,6,syriza,Thessaloniki,"In an onscreen TV outburst, Babis Papadimitriou, Greek journalist (and now New Democracy MP) accused fellow reporte https://t.co/sagnOde2ZK",teacherdude,,,,
+14,Sun Jul 21 15:04:23 +0000 2019,0,syriza,Europe,@KatPanagopoulou @YiannisLoverdos But they are sad that their ally didnt make it. They overthrew Samaras together. https://t.co/DivupTmuMy,atheniancapital,,,,
+15,Sun Jul 21 15:03:21 +0000 2019,0,syriza,Europe,@jon_halsall @CJFDillow At what point would you say Syriza 'failed' or was 'an abject failure'? Because the 13 Blai https://t.co/gNF7RHRSoD,ElGrouty,,,,
+16,Sun Jul 21 14:46:10 +0000 2019,0,syriza,Europe,@jon_halsall @CJFDillow Might mirror but doesn't explain. Also overlooks fact centre left Psoe eating up Podemos vo https://t.co/ndgmlVzsqw,ElGrouty,,,,
+17,Sun Jul 21 14:24:54 +0000 2019,0,syriza,Europe,"RT @ikostaki: .@kmitsotakis did not use not even once the words "" Tsipras @atsipras"" and SYRIZA @syriza_gr during his speech about of the p",RenosLek,,,,
+18,Sun Jul 21 08:41:44 +0000 2019,0,syriza,Europe,@omadaalithias Who introduced that? SYRIZA?,Tony95396125,,,,
+19,Sat Jul 20 17:22:31 +0000 2019,0,syriza,Europe,"RT @oeufling: ""Only propose an agenda to take on powerful interests if you have a strategy to fight them and fully intend to pursue it."" Sp",DavidMerrill21,,,,
+20,Sat Jul 20 17:14:25 +0000 2019,80,syriza,Europe,".@kmitsotakis did not use not even once the words "" Tsipras @atsipras"" and SYRIZA @syriza_gr during his speech abou https://t.co/zTOWAswZxe",ikostaki,,,,
+21,Sat Jul 20 16:50:27 +0000 2019,0,syriza,Europe,"RT @Centrist101: Someone f***ed up at Sky. 
+
+This guy is an economist &amp; former Syriza supporter (Very Left leaning party that lost power in",FatalePhlegm,,,,
+22,Sat Jul 20 15:30:59 +0000 2019,0,syriza,Europe,@Alex__1789 So you go downhill from SYRIZA and Podemos to Sanders and Corbyn.,Dr_Tad,,,,
+23,Sat Jul 20 15:16:09 +0000 2019,1,syriza,Europe,Greek elections - SYRIZA down but not out https://t.co/nY7t4lSyTx via @Chartist48,Pabloite,,,,
+24,Sat Jul 20 09:58:58 +0000 2019,0,syriza,Europe,"RT @NewLeftReview: Looking back on the Greek crisis: Stathis Kouvelakis from 2016:
+
+'Left-wingers who disintegrate internally tend to stop",Claudio_Forzano,,,,
+25,Sat Jul 20 09:06:39 +0000 2019,0,syriza,Europe,RT @atheniancapital: @OmairaGill Wtf are you talking about? Get real or become a real troll of SYRIZA where you probably belong!,LymperiO,,,,
+26,Sat Jul 20 05:32:38 +0000 2019,2,syriza,Europe,@OmairaGill Wtf are you talking about? Get real or become a real troll of SYRIZA where you probably belong!,atheniancapital,,,,
+27,Sat Jul 20 04:35:47 +0000 2019,0,syriza,Europe,"Greece: The government has pledged to hire 1,500 new officers to bolster the DIAS motorcycle patrol units and to re https://t.co/pEiTCGqdXd",altemark,,,,
+28,Fri Jul 19 16:29:46 +0000 2019,0,syriza,Europe,RT @atheniancapital: @anatropi_news ERT should change. Samaras started this but SYRIZA doggies blocked him. Its a good opportunity now to m,dHVA2CjqX4RiEmu,,,,
+29,Fri Jul 19 15:18:53 +0000 2019,1,syriza,Europe,I knew SYRIZA comprised by a circus and potentially a gang. What I didnt know and learned by reading the last bluff https://t.co/kIYZS6f9O9,atheniancapital,,,,
+30,Fri Jul 19 14:35:33 +0000 2019,0,syriza,Europe,"RT @garyyounge: ""There is a limit to how much any election can achieve under neoliberal globalisation  because no matter who you vote for,",fdiezbuzo,,,,
+31,Fri Jul 19 10:26:32 +0000 2019,4,syriza,Europe,@anatropi_news ERT should change. Samaras started this but SYRIZA doggies blocked him. Its a good opportunity now t https://t.co/AzpmnmYQ1z,atheniancapital,,,,
+32,Fri Jul 19 08:56:14 +0000 2019,0,syriza,Europe,"SP
+
+The recent general election in Greece saw a heavy defeat for Syriza (Coalition of the Radical Left) and a victo https://t.co/X4Am0Ii59w",VasanthaR2016,,,,
+33,Thu Jul 18 19:56:42 +0000 2019,0,syriza,Europe,"#Greeces long road ahead: ""Rebuilding the fight against #austerity could take years  and will be impossible witho https://t.co/jKTmZmy06p",IdealismPrevail,,,,
+34,Thu Jul 18 16:16:20 +0000 2019,0,syriza,Europe,"RT @Underground_RT: 'Syriza were voted in in 2015 saying they have an alternative route for the Greek economy, it was proven that they DID",anonymiss8,,,,
+35,Thu Jul 18 15:02:51 +0000 2019,0,syriza,Europe,RT @WendyPettifer: Yanis Varoufakis newly elected to Greek Parl is beacon of hope in defeat of  Syriza #InternationalSocialForum2019 @Greek,EscobarLaya,,,,
+36,Thu Jul 18 12:48:31 +0000 2019,0,syriza,Europe,"RT @EuroBabble: #populism never works. #Greece
+https://t.co/8GRwqq5mVi",ric_gris,,,,
+37,Thu Jul 18 11:10:56 +0000 2019,9,syriza,Europe,"Looking back on the Greek crisis: Stathis Kouvelakis from 2016:
+
+'Left-wingers who disintegrate internally tend to https://t.co/c5q8MY1hcu",NewLeftReview,,,,
+38,Thu Jul 18 10:11:02 +0000 2019,8,syriza,Europe,"#populism never works. #Greece
+https://t.co/8GRwqq5mVi",EuroBabble,,,,
+39,Thu Jul 18 09:36:09 +0000 2019,0,syriza,Europe,RT @paulmasonnews: Syriza's defeat another signal that the strategy of the radical left must change...  https://t.co/b3kjJxRjGi,PNHunt,,,,
+40,Thu Jul 18 05:56:51 +0000 2019,0,syriza,Europe,"RT @EuropeanUni: On 7 July voters in #Greece abandoned Syriza in favour of the more mainstream party New Democracy. How did they get there,",f_tassinari,,,,
+41,Wed Jul 17 18:53:10 +0000 2019,1,syriza,Europe,@H0lyInquisiti0n Apart from economics there's little real difference between ND and Syriza,tone74662527,,,,
+42,Wed Jul 17 18:17:16 +0000 2019,0,syriza,Europe,"@kndrmndr @kostarvanitis @GUENGL @SYRIZAEP You should very well know that SYRIZA's position is neither pro Maduro, https://t.co/fFlwAcB06E",vkatsardis,,,,
+43,Wed Jul 17 12:42:42 +0000 2019,0,syriza,Europe,@alexia_kapl @PrimeministerGR Yes I am serious and definitely live on the same planet. Once the elections were anno https://t.co/zCjsA1cFHl,IA_Kosmidis,,,,
+44,Wed Jul 17 11:19:12 +0000 2019,1,syriza,Europe,@jedijip @Alexandros1909 @ManolisAst The north remembers only when PAOK won the league and possibly when Paola was https://t.co/Asfy1mx97a,IoannisGrammati,,,,
+45,Wed Jul 17 08:12:31 +0000 2019,0,syriza,Europe,"RT @rimbaud_enfer: If you read this article, it's like listening to an ignorant SYRIZA voter. This guy must be either an absolute idiot (in",bellicose102,,,,
+46,Wed Jul 17 07:26:53 +0000 2019,3,syriza,Europe,"If you read this article, it's like listening to an ignorant SYRIZA voter. This guy must be either an absolute idio https://t.co/f94ZRm7tUR",rimbaud_enfer,,,,
+47,Tue Jul 16 19:56:40 +0000 2019,1,syriza,Europe,@damomac These were so much fun during the Syriza days. Cant wait for more of these ones now!,NickBarnets,,,,
+48,Tue Jul 16 19:28:22 +0000 2019,0,syriza,Europe,"@Discworld101 @GeorgeAylett You clearly know more about it than me, but I'm still confused why there is so much hat https://t.co/zaVKDo9TWg",RedGeorgieOne,,,,
+49,Tue Jul 16 16:26:14 +0000 2019,0,syriza,Europe,RT @Tony95396125: @omadaalithias He must have well paid and powerful friends. A year ago they manage to get him out and SYRIZA send him bac,Konsilieros,,,,
+50,Tue Jul 16 15:55:07 +0000 2019,2,syriza,Europe,@omadaalithias He must have well paid and powerful friends. A year ago they manage to get him out and SYRIZA send h https://t.co/aLdYM5F292,Tony95396125,,,,
+51,Tue Jul 16 14:25:51 +0000 2019,3,syriza,Europe,@pmpoc @enzoreds Maybe the most important difference (because we do seem to agree on a lot) is that I never found t https://t.co/32kgnOWMaM,PRoufos,,,,
+52,Tue Jul 16 14:21:41 +0000 2019,1,syriza,Europe,"@PRoufos @enzoreds I think, and Ive actually read your book so I know this isnt your view, as such, that this is https://t.co/6ZiPBy4DSj",pmpoc,,,,
+53,Tue Jul 16 13:54:32 +0000 2019,0,syriza,Europe,"Syriza's fall from grace in Greece: Can neoliberalism be defeated?
+
+https://t.co/221bjryPOJ https://t.co/n4ZjjTPuUI",ENnewsfront,,,,
+54,Tue Jul 16 13:33:43 +0000 2019,4,syriza,Europe,"'Syriza were voted in in 2015 saying they have an alternative route for the Greek economy, it was proven that they https://t.co/LziSHT7YsV",Underground_RT,,,,
+55,Tue Jul 16 13:31:07 +0000 2019,0,syriza,Europe,@Underground_RT @nmitarakis @SYRIZAEP I would like to remind you that @SYRIZAEP is the account of the delegation of https://t.co/xfDvVGGkav,vkatsardis,,,,
+56,Tue Jul 16 09:53:34 +0000 2019,0,syriza,Europe,@vozemberg Nea Dimokratia NEVER said a bad word about SYRIZA and its Government!!!,Tony95396125,,,,
+57,Tue Jul 16 09:11:16 +0000 2019,0,syriza,Europe,"RT @Goulchad: ""the ruins of the 'Syriza project' provide harsh warnings for other Left parties like Corbyn's Labour Party. Only the adoptio",jaimeiconcha,,,,
+58,Tue Jul 16 08:08:56 +0000 2019,4,syriza,Europe,"""the ruins of the 'Syriza project' provide harsh warnings for other Left parties like Corbyn's Labour Party. Only t https://t.co/x9upxaVcDj",Goulchad,,,,
+59,Tue Jul 16 07:59:50 +0000 2019,0,syriza,Europe,@NickCohen4 @MrRemain @shrewdkitty @Peradventur3 @hugorifkind @mrjamesob @IanDunt @pimlicat Social justice has beco https://t.co/chjsUHwmGc,LeavingPlanet,,,,
+60,Tue Jul 16 07:57:31 +0000 2019,0,syriza,Europe,Make syriza 4% again https://t.co/6Y7OolRSuP,hardala1312,,,,
+61,Tue Jul 16 07:16:22 +0000 2019,11,syriza,Europe,On 7 July voters in #Greece abandoned Syriza in favour of the more mainstream party New Democracy. How did they get https://t.co/ugUpuNpTb3,EuropeanUni,,,,
+62,Tue Jul 16 05:39:26 +0000 2019,0,syriza,Europe,"RT @DiEM_25: ""#Tspiras did not simply capitulate to the troika, or swap his radical ideals for hard-nosed realism. He actively refashioned",avivajazz,,,,
+63,Mon Jul 15 22:18:57 +0000 2019,0,syriza,Europe,"RT @JoshuaYJackson: I saw a comment that made me laugh, it said:
+
+DiEM25 is Syriza for slow learners
+
+Why does Labour want to spend a dec",JaM99percent,,,,
+64,Mon Jul 15 22:16:35 +0000 2019,0,syriza,Europe,RT @JoshuaYJackson: All I can say is these people will be disappointed when their wacky pipe dream of reform turns out to be an even bigger,JaM99percent,,,,
+65,Mon Jul 15 22:11:41 +0000 2019,0,syriza,Europe,"@Keir_Starmer @Another_Europe @LoveSocialism Don't you dare do a Syriza on us.  ""Brexit is the most important polit https://t.co/kormHHdqUV",Fifthcycler,,,,
+66,Mon Jul 15 21:02:07 +0000 2019,1,syriza,Europe,"@NorretteM @OwenJones84 @michael_chessum @HackneyAbbott @johnmcdonnellMP @Keir_Starmer @EmilyThornberry See Syriza, failure of",Calderbank,,,,
+67,Mon Jul 15 19:51:34 +0000 2019,6,syriza,Europe,All I can say is these people will be disappointed when their wacky pipe dream of reform turns out to be an even bi https://t.co/cs7id6dsie,JoshuaYJackson,,,,
+68,Mon Jul 15 18:24:58 +0000 2019,0,syriza,Europe,"RT @sam_swash: Fascinating that Paul Mason, who spent years in Greece covering the rise of SYRIZA for Channel 4, is totally silent on its w",AnnBattle1,,,,
+69,Mon Jul 15 18:17:58 +0000 2019,0,syriza,Europe,"RT @ikostaki: . @tsakalotos answers to @CNBC on @IMFNews candidacy. The special council of @syriza_gr faction called ""Group of 53"", voted a",aspromavrogati,,,,
+70,Mon Jul 15 18:11:52 +0000 2019,1,syriza,Europe,". @tsakalotos answers to @CNBC on @IMFNews candidacy. The special council of @syriza_gr faction called ""Group of 53 https://t.co/t4ViEBLph4",ikostaki,,,,
+71,Mon Jul 15 14:38:12 +0000 2019,0,syriza,Europe,"@Discworld101 @GeorgeAylett I think some EU leaders were a bit harsh. However, once the deal was on the table what https://t.co/FTXsAvS4v9",RedGeorgieOne,,,,
+72,Sun Jul 21 12:34:33 +0000 2019,0,tsipras,Athens,"RT @amna_newseng: #Tsipras: The first parliament without memoranda after ten years
+https://t.co/2DX0KgVELI
+@tsipras_eu https://t.co/3CoW7sB",SDracopoulou,,,,
+73,Sat Jul 20 21:00:18 +0000 2019,0,tsipras,Athens,@CasMudde @GreekAnalyst She was only Tsipras biggest ally.,vassalos,Tsipras,0.11987991631031036,0.20000000298023224,0.20000000298023224
+74,Sat Jul 20 18:45:11 +0000 2019,8,tsipras,Athens,"#Tsipras: The first parliament without memoranda after ten years
+https://t.co/2DX0KgVELI
+@tsipras_eu https://t.co/3CoW7sBgYc",amna_newseng,,,,
+75,Fri Jul 19 15:27:06 +0000 2019,2,tsipras,Athens,"@Tsipras_int2 Earthquake, earthquake erotic",Panos334,,,,
+76,Fri Jul 19 15:18:55 +0000 2019,1,tsipras,Athens,@Tsipras_int2 The three bads of your degree...,NickMarkas,,,,
+77,Fri Jul 19 15:03:08 +0000 2019,0,tsipras,Athens,@Tsipras_int2 Doesn't have quite the same ring to it in English! ,NikeMorgan,,,,
+78,Fri Jul 19 15:02:41 +0000 2019,1,tsipras,Athens,@ioulia22942833 @Tsipras_int2 Mine did! ,NikeMorgan,,,,
+79,Thu Jul 18 16:07:04 +0000 2019,0,tsipras,Athens,"@InchJeremy As in the case of Tsipras, in this case, too, a kolotoumba is actually beneficial for Greece. It may da https://t.co/OT35Uka2L6",DimoYagcioglu,Tsipras,0.0728040337562561,0.0,0.0
+80,Thu Jul 18 07:50:00 +0000 2019,0,tsipras,Athens,Tsipras aiming to guide SYRIZA towards new territory in opposition https://t.co/3sHEBMndfw #Greece #politics #greekelections,MacroPolis_gr,Tsipras,0.326323926448822,0.30000001192092896,-0.30000001192092896
+81,Thu Jul 18 07:10:00 +0000 2019,0,tsipras,Athens,Tsipras aiming to guide SYRIZA towards new territory in opposition https://t.co/3sHEBM5CnY #Greece #politics #greekelections,MacroPolis_gr,Tsipras,0.326323926448822,0.30000001192092896,-0.30000001192092896
+82,Wed Jul 17 11:54:36 +0000 2019,0,tsipras,Athens,"RT @amna_newseng: #SYRIZA leader @tsipras_eu meets #ESM chief Regling - #Greece @ESM_Press 
+https://t.co/DZUipE9zEE https://t.co/UXkUcrdYbH",GreeceOutsideIn,,,,
+83,Wed Jul 17 11:54:30 +0000 2019,2,tsipras,Athens,"#SYRIZA leader @tsipras_eu meets #ESM chief Regling - #Greece @ESM_Press 
+https://t.co/DZUipE9zEE https://t.co/UXkUcrdYbH",amna_newseng,,,,
+84,Wed Jul 17 07:55:12 +0000 2019,0,tsipras,Athens,Tsipras aiming to guide SYRIZA towards new territory in opposition https://t.co/evJjJUHWiY #Greece #politics,MacroPolis_gr,Tsipras,0.377120703458786,0.30000001192092896,-0.30000001192092896
+85,Wed Jul 17 06:40:09 +0000 2019,0,tsipras,Athens,RT @daphnenews: Mitsotakis is backtracking on Tsipras' plans to loosen church-state ties. Remains to be seen if he wants to keep clerics as,ChalatsisGeo,Tsipras,0.0965779721736908,0.0,0.0
+86,Tue Jul 16 20:18:59 +0000 2019,0,tsipras,Athens,"In #Greece, #ND won elections by blaming Tsipras on :
+1. Prespes/ N Macedonia agreement.
+2. 102 #Mati area deaths https://t.co/rp1JkWLFxS",faidr,Tsipras,0.1006072610616684,0.8999999761581421,-0.8999999761581421
+87,Tue Jul 16 17:20:37 +0000 2019,0,tsipras,Athens,"RT @amna_newseng: .@tsipras_eu to @syriza_gr: We need to prepare for attack on workers' rights by corporate-style gov't
+https://t.co/ZfBBlW",GreeceOutsideIn,,,,
+88,Tue Jul 16 17:20:31 +0000 2019,1,tsipras,Athens,.@tsipras_eu to @syriza_gr: We need to prepare for attack on workers' rights by corporate-style gov't https://t.co/gTko2wD6OV,amna_newseng,,,,
+89,Tue Jul 16 13:26:57 +0000 2019,7,tsipras,Athens,Mitsotakis is backtracking on Tsipras' plans to loosen church-state ties. Remains to be seen if he wants to keep cl https://t.co/1ILsmtpVDG,daphnenews,Tsipras,0.14553335309028625,0.0,0.0
+90,Mon Jul 15 20:26:34 +0000 2019,0,tsipras,Athens,Syriza's fall from grace in Greece: Can neoliberalism be defeated? https://t.co/VfjOhVWqR7 https://t.co/oRfZZ1eWMT,baphometx,,,,
+91,Mon Jul 15 13:42:30 +0000 2019,1,tsipras,Athens,@Tsipras_int2 Greek people too idiots to understand the great plan from the great prothypourg.,spinellaki,,,,
+92,Mon Jul 15 13:16:33 +0000 2019,0,tsipras,Athens,@Tsipras_int2 Indeed my dear radical,christineyannou,,,,
+93,Sun Jul 14 09:47:29 +0000 2019,0,tsipras,Athens,Just read in the news that Tsipras is considering renaming Syriza... To what? Guess. https://t.co/adwQRzU5s1,prostgrad,Tsipras,0.1933259814977646,0.10000000149011612,0.10000000149011612
+94,Sun Jul 14 05:35:45 +0000 2019,0,tsipras,Athens,RT @freddakios: @Tsipras_int2 but koulis showed you his bird already ,GeorgiaStefani8,,,,
+95,Sun Jul 14 01:07:16 +0000 2019,0,tsipras,Athens,"RT @ekathimerini: US Senator Bob Menendez (D-NJ), a well-known supporter of Greece, urges Prime Minister Tsipras to recognize Juan Guaido a",AthinaMarturet,Tsipras,0.11453838646411896,0.30000001192092896,-0.10000000149011612
+96,Sat Jul 13 23:11:31 +0000 2019,0,tsipras,Athens,"#Greece: Tsipras envisions SYRIZA as 'a party of the masses' https://t.co/aQTU4Rocpm
+Former prime minister and SYRI https://t.co/gZkcEFIV5T",DimoYagcioglu,Tsipras,0.1257554143667221,0.0,0.0
+97,Sat Jul 13 19:13:26 +0000 2019,2,tsipras,Athens,"@Vzla_Indomita We kicked Tsipras out and recognized  Guaido! 
+Now you put Maduro in jail and free Venezuela!",theogiannaros1,Tsipras,0.2219192087650299,0.800000011920929,-0.800000011920929
+98,Sat Jul 13 18:06:19 +0000 2019,36,tsipras,Athens,@Tsipras_int2 but koulis showed you his bird already ,freddakios,,,,
+99,Sat Jul 13 17:20:24 +0000 2019,0,tsipras,Athens,Tsipras to expand SYRIZA into a large progressive wing https://t.co/I9U4B5MTBQ #Greece #news,GreeceOutsideIn,Tsipras,0.5805734395980835,0.0,0.0
+100,Sat Jul 13 15:16:09 +0000 2019,0,tsipras,Athens,Tsipras envisions SYRIZA as 'a party of the masses' https://t.co/CnkHmgxq53 https://t.co/wABlTwgoo4,ekathimerini,Tsipras,0.44765934348106384,0.0,0.0
+101,Sat Jul 13 12:57:57 +0000 2019,0,tsipras,Athens,"RT @amna_newseng: SYRIZA President @tsipras_eu: Democratic and progressive #Greece invested in SYRIZA last Sunday
+https://t.co/vR1iqHW3DM h",GreeceOutsideIn,,,,
+102,Sat Jul 13 12:57:52 +0000 2019,0,tsipras,Athens,SYRIZA President @tsipras_eu: Democratic and progressive #Greece invested in SYRIZA last Sunday https://t.co/c4XqxvzHH9,amna_newseng,,,,
+103,Sat Jul 13 11:32:18 +0000 2019,0,tsipras,Athens,@mkhalili @BrunoTersago But take NYT: Mitsotakis supporters went literally apeshit over this: https://t.co/4m3DlCKjpd,damomac,Mitsotakis,0.08055007457733154,0.0,0.0
+104,Fri Jul 12 20:35:26 +0000 2019,0,tsipras,Athens,@Tsipras_int2 You have collected all the jizz.,IoannisIoannou9,,,,
+105,Fri Jul 12 16:15:17 +0000 2019,1,tsipras,Athens,"@TheEconomist The first Tsipras cabinet had only 6 women (5 now), none of them a minister (2 now), but the Economis https://t.co/xqReNjhSbA",egrammes,Tsipras,0.09514247626066208,0.20000000298023224,-0.20000000298023224
+106,Wed Jul 17 06:48:11 +0000 2019,4,tsipras,Thessaloniki,@JamesKerLindsay @kmitsotakis @tsipras_eu James we dont need Antifa supporters like yourself chiming in with bad ideas!,HellenismToday,,,,
+107,Tue Jul 16 06:32:26 +0000 2019,4,tsipras,Thessaloniki,"I'm wondering how karma has worked in the case of #Boris. He paved the way for Euroscepticism with his Euromyths, t https://t.co/oy7jm0vzmV",RevePedi,,,,
+108,Mon Jul 15 19:53:05 +0000 2019,0,tsipras,Thessaloniki,RT @spyrakos01: @Tsipras_int2 Throw the black Peter  behind you...,minxM,,,,
+109,Mon Jul 15 17:58:16 +0000 2019,0,tsipras,Thessaloniki,@MAROOZx @Tsipras_int2 I did... ,qYIfCsbHk8lYE3v,,,,
+110,Mon Jul 15 11:10:14 +0000 2019,3,tsipras,Thessaloniki,@Tsipras_int2 You can be president of democracy together with varoufakis,KostasPan4,,,,
+111,Mon Jul 15 10:31:25 +0000 2019,0,tsipras,Thessaloniki,"RT @MAROOZx: @Tsipras_int2 No no no Alexis!!! You should go for president of America... planitarch, you know?",redbug76,Alexis,0.14677932858467102,0.20000000298023224,0.20000000298023224
+112,Mon Jul 15 10:26:57 +0000 2019,14,tsipras,Thessaloniki,"@Tsipras_int2 No no no Alexis!!! You should go for president of America... planitarch, you know?",MAROOZx,Alexis,0.2393718808889389,0.20000000298023224,0.20000000298023224
+113,Sun Jul 14 19:24:24 +0000 2019,0,tsipras,Thessaloniki,RT @MakeGreeceGreat: Night of the Long Knives: Boris May Purge Remainers from Cabinet. #Greece under #Tsipras missed the #GRexit opportunit,PTampouras,Tsipras,0.04228603094816208,0.0,0.0
+114,Sun Jul 14 17:54:44 +0000 2019,1,tsipras,Thessaloniki,Night of the Long Knives: Boris May Purge Remainers from Cabinet. #Greece under #Tsipras missed the #GRexit opportu https://t.co/bc8vbwLjHo,MakeGreeceGreat,Tsipras,0.022562487050890923,0.0,0.0
+115,Sat Jul 13 18:35:01 +0000 2019,7,tsipras,Thessaloniki,@Tsipras_int2 Sit high and watch ...,spyrakos01,,,,
+116,Sat Jul 13 18:06:49 +0000 2019,17,tsipras,Thessaloniki,@Tsipras_int2 I didn't have you for matakia ex prothipourg..!,MAROOZx,,,,
+117,Sun Jul 21 12:48:16 +0000 2019,0,tsipras,Europe,"RT @JeremyCliffe: Greece goes to the polls on Sunday. In my @TheEconomist column this week I profile Kyriakos Mitsotakis, the man almost ce",Mohamma91056909,,,,
+118,Sun Jul 21 10:50:35 +0000 2019,0,tsipras,Europe,"Tsipras taunts Mitsotakis for not canceling the Prespa treaty - https://t.co/ruCUsdgb4K 
+
+#Macedonia https://t.co/VfwC9eFpBK",RepublikaEng,Mitsotakis,0.23811812698841095,0.4000000059604645,-0.4000000059604645
+119,Sun Jul 21 07:40:19 +0000 2019,0,tsipras,Europe,RT @mowords: Extreme far-right party loses every seat in Greek parliament as opposition claims landslide victory https://t.co/6W5AsC747H,iddesleigh,,,,
+120,Sat Jul 20 15:59:26 +0000 2019,30,tsipras,Europe,Extreme far-right party loses every seat in Greek parliament as opposition claims landslide victory https://t.co/6W5AsC747H,mowords,,,,
+121,Sat Jul 20 10:03:30 +0000 2019,0,tsipras,Europe,"RT @HarrisSamaras: Read: ""#Greece - Defeat of Populism at the Hands of Reality"" by @dlacalle_IA. The failure of #Keynesian policies, and Al",PKythreotis,,,,
+122,Sat Jul 20 08:13:38 +0000 2019,0,tsipras,Europe,"RT @theokoulouris: Memories of Athens 4 years ago, inc the Democracy Rising conference. Note the hope in the atmosphere despite Tsipras ca",MatinaLiosi,Tsipras,0.021969594061374664,0.0,0.0
+123,Sat Jul 20 07:52:29 +0000 2019,2,tsipras,Europe,"Memories of Athens 4 years ago, inc the Democracy Rising conference. Note the hope in the atmosphere despite Tsipra https://t.co/G01gTx0dal",theokoulouris,,,,
+124,Sat Jul 20 07:36:28 +0000 2019,0,tsipras,Europe,"RT @HarrisSamaras: #Greece, a disillusioned society that ""allowed"" Alexis Tsipras' populist government to amongst other raise #taxes of the",PytheasThe,,,,
+125,Sat Jul 20 06:26:55 +0000 2019,0,tsipras,Europe,"RT @dlacalle_IA: The defeat of Tsipras in Greece is the loss of those who came to power promising that two plus two would equal twenty-two,",AchylleT,Tsipras,0.08643333613872528,0.6000000238418579,-0.6000000238418579
+126,Sat Jul 20 06:06:25 +0000 2019,0,tsipras,Europe,"RT @112_sos: Bonus: We always love to meet Prime Ministers 
+https://t.co/1MGmWFp3Uo https://t.co/dnsKkVDqyU",emweeklyrpt,,,,
+127,Sat Jul 20 05:28:42 +0000 2019,4,tsipras,Europe,"#Greece, a disillusioned society that ""allowed"" Alexis Tsipras' populist government to amongst other raise #taxes o https://t.co/oUXPeHl7y4",HarrisSamaras,,,,
+128,Sat Jul 20 05:28:41 +0000 2019,5,tsipras,Europe,"Read: ""#Greece - Defeat of Populism at the Hands of Reality"" by @dlacalle_IA. The failure of #Keynesian policies, a https://t.co/HyouLnVs0F",HarrisSamaras,,,,
+129,Sat Jul 20 00:25:02 +0000 2019,29,tsipras,Europe,The defeat of Tsipras in Greece is the loss of those who came to power promising that two plus two would equal twen https://t.co/PtehuPZ54Y,dlacalle_IA,Tsipras,0.17936529219150543,0.699999988079071,-0.699999988079071
+130,Fri Jul 19 22:49:33 +0000 2019,0,tsipras,Europe,"RT @the_tpa: Our analysis of the recent election in Greece shows that the only way to fix the damage wrought by Tsipras high tax, big stat",Alexandros1909,Tsipras,0.055409837514162064,0.0,0.0
+131,Fri Jul 19 16:24:16 +0000 2019,5,tsipras,Europe,@OmairaGill When Tsipras took office a historic bridge near his home village collapsed and the first call he took a https://t.co/He6uMnxsap,grimnirandthird,Tsipras,0.5468713641166687,0.30000001192092896,-0.10000000149011612
+132,Fri Jul 19 05:19:30 +0000 2019,0,tsipras,Europe,@guyverhofstadt Many were oh so silent however when Tsipras did it systematically,Natalia_P_,Tsipras,0.07092198729515076,0.0,0.0
+133,Fri Jul 19 01:40:22 +0000 2019,0,tsipras,Europe,"@tsipras_eu @MichelBarnier Yes, the humiliation, the emptying of the ATMs, the spike in prostitution and youth unem https://t.co/gQtncNfjgZ",Bloodclouds,,,,
+134,Thu Jul 18 11:49:33 +0000 2019,7,tsipras,Europe,Our analysis of the recent election in Greece shows that the only way to fix the damage wrought by Tsipras high ta https://t.co/EYjLxNcGAO,the_tpa,Tsipras,0.06171869859099388,0.10000000149011612,-0.10000000149011612
+135,Thu Jul 18 11:40:25 +0000 2019,0,tsipras,Europe,RT @ESM_Press: While in Athens #ESM Managing Director Klaus #Regling had a meeting with Greek opposition leader Alexis Tsipras today @atsip,juliana_dahl,,,,
+136,Thu Jul 18 11:01:26 +0000 2019,0,tsipras,Europe,"RT @FES_GB: The Twilight of the Insurgent Left
+
+In his article for @IPGJournal FES London Director @ChrisPeristeri asks why a left-wing res",FES_EU,,,,
+137,Wed Jul 17 18:50:35 +0000 2019,0,tsipras,Europe,@kndrmndr @kostarvanitis @GUENGL @SYRIZAEP Ok photos... Your credibility is approaching 0...so if I show you a phot https://t.co/OYvBV8ym50,vkatsardis,,,,
+138,Wed Jul 17 13:16:12 +0000 2019,0,tsipras,Europe,"Greeks will cry for Tsipras: 
+Orthodox priests will remain civil servants, new conservative government threw out a https://t.co/U9psVkFKy4",trkanjec,Tsipras,0.13864466547966003,0.20000000298023224,-0.20000000298023224
+139,Wed Jul 17 10:41:21 +0000 2019,1,tsipras,Europe,"The Twilight of the Insurgent Left
+
+In his article for @IPGJournal FES London Director @ChrisPeristeri asks why a l https://t.co/6BKr6Zx2zy",FES_GB,,,,
+140,Wed Jul 17 10:37:18 +0000 2019,3,tsipras,Europe,While in Athens #ESM Managing Director Klaus #Regling had a meeting with Greek opposition leader Alexis Tsipras tod https://t.co/Agyq7dBcbq,ESM_Press,,,,
+141,Wed Jul 17 07:24:28 +0000 2019,0,tsipras,Europe,RT @JamesKerLindsay: First overseas trip of #Greece PM @kmitsotakis will be to #Cyprus on 29 July. On his first visit to the island as PM @,IVejvoda,,,,
+142,Tue Jul 16 20:27:41 +0000 2019,0,tsipras,Europe,"RT @Aspeniaonline: #Mitsotakis wants to run #Greece as a business project. A team of young technocratic politicians, Harvard-educated exper",Aspeniaonline,Mitsotakis,0.16705526411533356,0.10000000149011612,-0.10000000149011612
+143,Tue Jul 16 19:28:18 +0000 2019,0,tsipras,Europe,RT @Sofrup: @JamesKerLindsay @kmitsotakis @tsipras_eu U play the role of Grk. gov. advisor or the Trojan horse? Just because Tsipras was,Makedni,Tsipras,0.030201390385627747,0.30000001192092896,0.30000001192092896
+144,Tue Jul 16 16:39:06 +0000 2019,0,tsipras,Europe,"RT @alfonslopeztena: Although Tsipras helped catalyze Greeces recovery, Mitsotakiss sweeping electoral mandate and impressive technocrati",levaly2,Tsipras,0.16061663627624512,0.4000000059604645,0.4000000059604645
+145,Tue Jul 16 16:32:11 +0000 2019,0,tsipras,Europe,@JamesKerLindsay @kmitsotakis @tsipras_eu Lets hope,Colcestrian,,,,
+146,Tue Jul 16 14:50:58 +0000 2019,1,tsipras,Europe,"@KFeistel89 @BaruLevy Tsipras did deliver the Prespa agreement, so I applaud him for that, given the domestic oppos https://t.co/9VLZcVJNc5",MattMcKeon73,,,,
+147,Tue Jul 16 11:54:57 +0000 2019,1,tsipras,Europe,"#Mitsotakis wants to run #Greece as a business project. A team of young technocratic politicians, Harvard-educated https://t.co/aAht1QuJEY",Aspeniaonline,Mitsotakis,0.47785598039627075,0.0,0.0
+148,Tue Jul 16 11:01:30 +0000 2019,0,tsipras,Europe,"RT @TonoEPP: By recognising @jguaido as interim president of #Venezuela, @kmitsotakis shows his strong commitment to democracy, freedom &amp; h",EPPJuan,,,,
+149,Tue Jul 16 10:26:19 +0000 2019,9,tsipras,Europe,@JamesKerLindsay @kmitsotakis @tsipras_eu U play the role of Grk. gov. advisor or the Trojan horse? Just because https://t.co/huuV5Lvn0t,Sofrup,,,,
+150,Tue Jul 16 09:48:51 +0000 2019,21,tsipras,Europe,First overseas trip of #Greece PM @kmitsotakis will be to #Cyprus on 29 July. On his first visit to the island as P https://t.co/KgiYAQeHqj,JamesKerLindsay,,,,
+151,Tue Jul 16 09:35:28 +0000 2019,0,tsipras,Europe,@LiberalGr Tsipras is not Prime minister any more but still his fault for that!!!,Tony95396125,,,,
+152,Mon Jul 15 22:48:45 +0000 2019,0,tsipras,Europe,"RT @pspengle: In the case of [former prime minister Alexis] Tsipras, it was easy  he  was a fake, and many people suspected that from the",JochenScholz2,Alexis,0.06693554669618607,0.0,0.0
+153,Mon Jul 15 14:56:53 +0000 2019,1,tsipras,Europe,"#EuropeanElections
+In #Greece #NewDemocracy overcomes @SYRIZAEP with an 8-member delegation in the @EPPGroup. https://t.co/MEBKdTS1CW",mustandpartners,,,,
+154,Mon Jul 15 14:26:13 +0000 2019,17,tsipras,Europe,"Although Tsipras helped catalyze Greeces recovery, Mitsotakiss sweeping electoral mandate and impressive technocr https://t.co/yMQEImpv8h",alfonslopeztena,Tsipras,0.5597622394561768,0.30000001192092896,0.30000001192092896
+155,Mon Jul 15 13:15:50 +0000 2019,0,tsipras,Europe,"In the case of [former prime minister Alexis] Tsipras, it was easy  he  was a fake, and many people suspected tha https://t.co/rP5ta0lptU",pspengle,Alexis,0.06937050819396973,0.0,0.0
+156,Wed Jul 17 09:15:44 +0000 2019,0,nea dimokratia,Europe,"New Greek Government faces big hurdles -  
+https://t.co/7m6yj5lv0R - The conservative party Nea Dimokratia (ND) has https://t.co/Q6Uo3fqb2A",debitos_net,,,,
+157,Wed Jul 17 09:14:43 +0000 2019,0,nea dimokratia,Europe,"New Greek Government faces big hurdles -  
+https://t.co/Mf57JAryvQ - The conservative party Nea Dimokratia (ND) has https://t.co/baqSRRajwd",debitos_net,,,,
+158,Fri Jul 12 13:16:56 +0000 2019,0,nea dimokratia,Europe,@BrookingsFP @MollyMontgomery Stop calling Nea Dimokratia a center right party. It is and always has been an alt-ri https://t.co/FKV0u77Uoq,polyam19,,,,
+159,Sun Jul 21 09:55:10 +0000 2019,9,nd,Athens,"#Greece - ND's stance on Prespes Agreement has always been clear and consistent, Voridis says https://t.co/YrG71hqc43",BrunoTersago,,,,
+160,Sun Jul 21 09:24:27 +0000 2019,0,nd,Athens,"RT @amna_newseng: ND's stance on Prespes Agreement has always been clear and consistent, #Voridis says:
+https://t.co/lwMOjkSZnV https://t.c",GreeceOutsideIn,,,,
+161,Sun Jul 21 09:24:22 +0000 2019,1,nd,Athens,"ND's stance on Prespes Agreement has always been clear and consistent, #Voridis says:
+https://t.co/lwMOjkSZnV https://t.co/fKJwYVrNsa",amna_newseng,,,,
+162,Sun Jul 21 07:41:10 +0000 2019,0,nd,Athens,RT @Konstantina88P: #_ #nd_xeftiles #____ #_ #Energa #scandal Freeing the criminals.. This is Gr,Dr_Ciphers,,,,
+163,Sat Jul 20 12:59:34 +0000 2019,0,nd,Athens,@simonblackwell Wait the 22 nd  and you ll need  a double dose of those ...,elenistafylopa1,,,,
+164,Sat Jul 20 07:00:00 +0000 2019,0,nd,Athens,"ND ready to flesh out its policy agenda, with focus on tax plans https://t.co/VnYFUWKhMg #Greece #politics",MacroPolis_gr,,,,
+165,Fri Jul 19 20:13:27 +0000 2019,1,nd,Athens,"13 days after elections:
+A quick 5.3 earthquake #Athens, all OK. 
+TVs, which already fired non #ND friendly journal https://t.co/z5zACo7EW6",faidr,,,,
+166,Fri Jul 19 16:43:21 +0000 2019,0,nd,Athens,"RT @MacroPolis_gr: ND ready to flesh out its policy agenda, with focus on tax plans https://t.co/VnYFUX1TaQ #Greece #politics",alexvoudouri,,,,
+167,Fri Jul 19 16:00:00 +0000 2019,0,nd,Athens,"ND ready to flesh out its policy agenda, with focus on tax plans https://t.co/VnYFUX1TaQ #Greece #politics",MacroPolis_gr,,,,
+168,Thu Jul 18 20:04:34 +0000 2019,4,nd,Athens,Face App #nd_xeftiles #FaceApp https://t.co/7H1tx7hCgg,dpatsis,,,,
+169,Thu Jul 18 18:25:55 +0000 2019,0,nd,Athens,RT @NickMalkoutzis: Content of the meeting also undoes the narrative that New Democracy supposedly won Greek election without making promis,SOTIRIOSCORP,,,,
+170,Thu Jul 18 10:46:36 +0000 2019,1,nd,Athens,#prespes#nd_xeftiles https://t.co/IRr2Sdiej0,politics_greek,,,,
+171,Wed Jul 17 22:13:31 +0000 2019,1,nd,Athens,The newly elected ND Greek government decreased the operational capacity of the Labor Inspectorate by depriving its https://t.co/smwdygu35I,KHatzinikolaou,,,,
+172,Wed Jul 17 21:58:06 +0000 2019,0,nd,Athens,"Without access to health and education (stopped by the newly elected ND #Greek government), how are professional gu https://t.co/GSLjmIuDgF",KHatzinikolaou,,,,
+173,Wed Jul 17 10:50:23 +0000 2019,0,nd,Athens,Conservative ND scraps plans to take priests off the state payroll https://t.co/BOmvA0GXEX #Greece #news,GreeceOutsideIn,,,,
+174,Wed Jul 17 10:25:09 +0000 2019,0,nd,Athens,RT @ganavalo: I would like to congratulate the previous government for taking all the proper measures for the Greek debt to become sustaina,arnielliniko,,,,
+175,Tue Jul 16 16:49:45 +0000 2019,39,nd,Athens,I would like to congratulate the previous government for taking all the proper measures for the Greek debt to becom https://t.co/PtO4nAupHD,ganavalo,,,,
+176,Tue Jul 16 15:05:28 +0000 2019,5,nd,Athens,#_ #nd_xeftiles #____ #_ #Energa #scandal Freeing the criminals.. This i https://t.co/rb8kmSS332,Konstantina88P,,,,
+177,Tue Jul 16 14:02:07 +0000 2019,0,nd,Athens,ND decries early release of disgraced energy exec under new criminal code https://t.co/5TNCdnHVa1 https://t.co/jBIVTDXDyZ,ekathimerini,,,,
+178,Tue Jul 16 08:25:40 +0000 2019,0,nd,Athens,"RT @DecentralizedEu: We are extremely excited to announce our newest #Sponsor and event partner @bitshares at @DecentralizedEu 2019.
+#decen",ND_check,,,,
+179,Tue Jul 16 07:20:00 +0000 2019,0,nd,Athens,ND puts changes in Greek education and justice system high on agenda https://t.co/cVUstOQUGX  #Greece #economy,MacroPolis_gr,,,,
+180,Tue Jul 16 07:17:20 +0000 2019,0,nd,Athens,@DIorioNathaniel ND you appear to be a rude fool. I could be wrong as I do not understand socialist democrats that https://t.co/BjrVYbQ0A4,300cba,,,,
+181,Mon Jul 15 16:52:00 +0000 2019,0,nd,Athens,ND puts changes in Greek education and justice system high on agenda https://t.co/cVUstP8vyv  #Greece #economy,MacroPolis_gr,,,,
+182,Mon Jul 15 10:20:07 +0000 2019,0,nd,Athens,ND puts changes in Greek education and justice system high on agenda https://t.co/cVUstOQUGX #Greece #economy,MacroPolis_gr,,,,
+183,Mon Jul 15 10:15:12 +0000 2019,2,nd,Athens,Content of the meeting also undoes the narrative that New Democracy supposedly won Greek election without making pr https://t.co/inI5Y0zsAT,NickMalkoutzis,,,,
+184,Sun Jul 14 20:44:13 +0000 2019,0,nd,Athens,"RT @OmairaGill: Votes were as follows: 
+ND: 15 votes
+SYRIZA 6
+KINAL 8
+GD 2
+KKE 3
+Elliniki lysi 1
+Mera25 1
+Dimourgia xana 1
+Plevsi Eleftheri",EmpressNorton,,,,
+185,Sun Jul 14 19:55:19 +0000 2019,4,nd,Athens,"Votes were as follows: 
+ND: 15 votes
+SYRIZA 6
+KINAL 8
+GD 2
+KKE 3
+Elliniki lysi 1
+Mera25 1
+Dimourgia xana 1
+Plevsi E https://t.co/b9fRyD4PkL",OmairaGill,,,,
+186,Sat Jul 13 07:46:23 +0000 2019,0,nd,Athens,@TRIVlAPINK damn jus tell me u wan ply w me nd gooooo,toruhyun,,,,
+187,Fri Jul 12 12:54:13 +0000 2019,6,nd,Athens,"""We're reform........................."" (SLAP!)
+""Reformist? Are you serious? There are just five women in cabinet p https://t.co/xAo2KpddqU",teacherdude,,,,
+188,Fri Jul 12 12:42:19 +0000 2019,0,nd,Athens,"RT @tasosgretsistas: @BBCHARDtalk @kmitsotakis selling alien mythology to uneducated elderly people), which is sexist in and of itself. The",rolistas320,,,,
+189,Fri Jul 12 09:32:14 +0000 2019,0,nd,Athens,RT @mariapet: Greece's Foreign Press Association issues statement on derogatory (and  uninformed) comments on foreign correspondents/Libera,NickMalkoutzis,,,,
+190,Fri Jul 19 21:13:47 +0000 2019,5,nd,Thessaloniki,Got fired last Friday Nd then got a new job yesterday... grinding and thriving byyyye!!!,momomiyachan,,,,
+191,Fri Jul 19 13:10:09 +0000 2019,2,nd,Thessaloniki,@davidrkadler @yanisvaroufakis When New Democracy officials first announced this before the elections it was writte https://t.co/ddhvzujHQh,teacherdude,,,,
+192,Tue Jul 16 03:18:00 +0000 2019,1,nd,Thessaloniki,Somehow Im still up Nd alive,momomiyachan,,,,
+193,Sun Jul 21 15:20:12 +0000 2019,0,nd,Europe,"@MikeIgnacio18 Nd obvious, promise hahaha",markdcordero,,,,
+194,Sun Jul 21 15:17:40 +0000 2019,0,nd,Europe,"RT @namjinheaven: ARMYs we are going for +100M votes. 
+#MTVHottest BTS @BTS_twt https://t.co/ScQ1rToSDT",ND_Dhiya,,,,
+195,Sun Jul 21 15:17:07 +0000 2019,0,nd,Europe,@joonasmr I'm sending u love nd endless support,ynwatwt,,,,
+196,Sun Jul 21 15:15:15 +0000 2019,0,nd,Europe,The #SS19 ND Range of Classic Tee's  https://t.co/q0dttgQVUD #weartherose https://t.co/JnneC3t9vz,NicholasDeakins,,,,
+197,Sun Jul 21 15:14:04 +0000 2019,13,nd,Europe,hyeongjun if u ever come across this.. i want u to know that ure the best bubbie boy ever!!! nd uhm i wanna be bffs https://t.co/yWuhUy564g,hyeon6s,,,,
+198,Sun Jul 21 15:06:41 +0000 2019,0,nd,Europe,RT @katygodfrey_: Any one else just sit and look through pics of you nd ur mates and realise how much u love them ,Emiliawallace_,,,,
+199,Sun Jul 21 15:02:53 +0000 2019,0,nd,Europe,"RT @namjinheaven: .@BTS_twt on Spotify and YouTube for week ending July 18:
+
+Spotify: 76.1 MILLION streams 
+YouTube: 120 MILLION views
+
+#",ND_Dhiya,,,,
+200,Sun Jul 21 15:02:27 +0000 2019,0,nd,Europe,"RT @Mattcerah: too lazy to reply text, unless you're important to me.",nd_mrr,,,,
+201,Sun Jul 21 14:59:46 +0000 2019,0,nd,Europe,@whyrubyjane ganpn tlsga minsan you just have to accept it or if you really likr her that much edi pursue m siya be https://t.co/qvpKKbMxTD,kilikilinilisa,,,,
+202,Sun Jul 21 14:58:17 +0000 2019,1,nd,Europe,Any one else just sit and look through pics of you nd ur mates and realise how much u love them ,katygodfrey_,,,,
+203,Sun Jul 21 14:56:22 +0000 2019,0,nd,Europe,"@vjoffe @JulieCotaSLT @PamelaSnow2 + Selective mutism, plus intellectual disabilities. # Early intervention nd prof https://t.co/CKFjmC7Nni",3girls2cats1man,,,,
+204,Sun Jul 21 14:53:10 +0000 2019,1,nd,Europe,u be too comfortable w the S Asian community and theyll make ur culture feel inferior nd try to asianize you&gt; tru https://t.co/a24vqE09la,Jamilaaa_,,,,
+205,Sun Jul 21 14:52:41 +0000 2019,0,nd,Europe,RT @Ellie_wils: Got a bit too hot today nd long story short I threatened to deck my dad bc I didnt want to talk to him,peat_megan,,,,
+206,Sun Jul 21 14:51:59 +0000 2019,0,nd,Europe,HVs to say the Tierney news has died hope we do get him Nd th 3rd bid comes soon and is good enough,JamesJo89587516,,,,
+207,Sun Jul 21 14:43:05 +0000 2019,2,nd,Europe,Love the fact that it actually makes sense nd it's even more legit in Morocco  https://t.co/4tu6aJltgX,naykizzz,,,,
+208,Sun Jul 21 14:38:35 +0000 2019,0,nd,Europe,"@jodyscorner1 https://t.co/jx4oa7ngMi
+
+So it's comfirmed  and they change genders to just like that too. Still hop https://t.co/oe8kaKyLSI",KuzanLars,,,,
+209,Sun Jul 21 14:37:18 +0000 2019,0,nd,Europe,"@Supereaglescomp Nd that's best for  all young lads...
+#Exposure is vital ",Jeffrey85086297,,,,
+210,Sun Jul 21 14:37:00 +0000 2019,0,nd,Europe,Nd Tokyo and her dickhead boyfriend need to die,1inaBilliyon,,,,
+211,Sun Jul 21 14:34:16 +0000 2019,1,nd,Europe,gamers who do u think my nct bias would be nd why bc i rlly wanna stan,WlKlHAO,,,,
+212,Sun Jul 21 14:30:06 +0000 2019,5,nd,Europe,@ShekharGupta @FauzanAlavi Trust the Sanghi Gupta to endorse this utterly dangerous view. Why the hell should Musli https://t.co/saC93usMB8,mmazumdar2014,,,,
+213,Sun Jul 21 14:24:03 +0000 2019,0,nd,Europe,RT @StNSteff: I have become a champion for @MINTnursing and hope to help men become aware that nursing is just as much a career for males a,MINTnursing,,,,
+214,Sun Jul 21 14:15:37 +0000 2019,0,nd,Europe,"@Welshy_Rhys Yay, gotta love an excited gryph! :3",Wuffie_ND,,,,
+215,Sun Jul 21 14:12:35 +0000 2019,2,nd,Europe,"@021Lorena_ffc Ffc, tu q n queria nd com nd",YannNascimento5,,,,
+216,Sun Jul 21 14:09:45 +0000 2019,0,nd,Europe,i love pearla nd marina best lesbains,Lighterium,,,,
+217,Sun Jul 21 14:08:53 +0000 2019,0,nd,Europe,"@fromthdtable oments 
+nd of the day
+ittle things 
+f I could fly
+tole my heart
+trong 
+live 
+",haroldsnipples,,,,
+218,Sun Jul 21 14:07:22 +0000 2019,1,nd,Europe,@BorianaNacheva Just stress mannn. I had a horrible migraine the whole day nd stupid customers were annoying tf out of me ,oh_it_nadine,,,,
+219,Sun Jul 21 14:05:22 +0000 2019,1,nd,Europe,"@m_k_nd Yeah I agree, curries are bang average. Haleem and nihari were very nice",Alauddinn__,,,,
+220,Sun Jul 21 13:59:17 +0000 2019,0,nd,Europe,@MonsieurRD Super,Klaus_nd,,,,
+221,Sun Jul 21 13:56:44 +0000 2019,0,nd,Europe,Love made the professor lose everything. Raquel has no importance whatsoever. Biggest liability of the entire show.,Daniel_ND_,,,,
+222,Sun Jul 21 13:55:36 +0000 2019,0,nd,Europe,The biggest trap in the world. https://t.co/uMijUEByTZ,Daniel_ND_,,,,
+223,Sun Jul 21 13:53:41 +0000 2019,0,nd,Europe,"RT @UKLEAP: Why are so many women dying? 
+
+Did you know theres an increase in drug related deaths amongst women? Why is this, what can we",Talkingdrugs,,,,
+224,Sun Jul 21 13:52:32 +0000 2019,0,nd,Europe,i can't believe prism in mnl won't happen nd c*b3 pretending that ptg haven't visited ph more than once... ,heojungs,,,,
+225,Sun Jul 21 13:50:43 +0000 2019,0,nd,Europe,"RT @RukhieLuvzKaira: Kaira:made for each other 
+I nominate @nayab_kinza @KillerxxxFrost @Adz_1998 guys make a kaira edit wid tag #WeWantOn",fangirlswasti,,,,
+226,Sun Jul 21 13:48:45 +0000 2019,4,nd,Europe,I have become a champion for @MINTnursing and hope to help men become aware that nursing is just as much a career f https://t.co/UpIzFJ9c43,StNSteff,,,,
+227,Sun Jul 21 13:45:39 +0000 2019,0,nd,Europe,The Professor Lost. Broke the number 1 rule.,Daniel_ND_,,,,
+228,Sun Jul 21 13:38:17 +0000 2019,1,nd,Europe,"My money is on Lucie, shes the another islander https://t.co/9O2JikResO",nd_tonia,,,,
+229,Sun Jul 21 13:36:55 +0000 2019,1,nd,Europe,@Blair_waldofxx Shes basically contradict herself. ,nd_tonia,,,,
+230,Sun Jul 21 13:36:42 +0000 2019,0,nd,Europe,"RT @mediamuseum: Kicking off the Bradford Science Festival with a great performance by ND Dance Academy. Rockets in @CityParkBD, planetariu",dylanz1,,,,
+231,Sun Jul 21 13:34:55 +0000 2019,0,nd,Europe,@HekuroXVI Safe nd,NabilIstStabil,,,,
+232,Sun Jul 21 13:33:15 +0000 2019,4,nd,Europe,trust https://t.co/LF31Vlsurl,Klaus_nd,,,,
+233,Sun Jul 21 13:32:32 +0000 2019,2,nd,Europe,Got a bit too hot today nd long story short I threatened to deck my dad bc I didnt want to talk to him,Ellie_wils,,,,
+234,Sun Jul 21 13:29:03 +0000 2019,0,nd,Europe,@AndyBird92300 You are rather assuming a lot about what Govt will be in place 6-12 months after ND. I make no such https://t.co/MH24y9vgMN,AllieRenison,,,,
+235,Sun Jul 21 13:28:08 +0000 2019,2,nd,Europe,@Schuldensuehner We are 2.nd worldwide in running Bitcoin nodes. What else counts? The rests gonna crash and burn a https://t.co/izM8Cn7ZQP,YogicCEO,,,,
+236,Sun Jul 21 13:27:46 +0000 2019,1,nd,Europe,@DHAV97 Shutup u told me u sucked some girls feet nd she had athletes foot,leo2daworld,,,,
+237,Sun Jul 21 13:21:38 +0000 2019,0,nd,Europe,RT @AVlRGO: the unfinished water bottle in my room when i bring in a new one https://t.co/6EpQVv0RqD,marlon_nd,,,,
+238,Sun Jul 21 13:19:49 +0000 2019,0,nd,Europe,RT @charliebrucee: Shoutout to @emmerdale for single handedly the worst piece of acting Ive ever seen! Im in bits  https://t.co/D42WgD,marlon_nd,,,,
+239,Sun Jul 21 13:15:33 +0000 2019,4,nd,Europe,If @tnsfc lose in the next round of the @ChampionsLeague then they will play one of the sides not in bold in Group https://t.co/tYquRIYsiM,ND__15,,,,
+240,Sun Jul 21 13:14:52 +0000 2019,0,nd,Europe,"@Ope_Solaja Trust. Lamela got the 1st Son assist. Need to check how much ND is. 
+
+De Ligt looking solid for Juve as https://t.co/k6cLBUYzsK",Ka8ir_,,,,
+241,Sun Jul 21 13:10:23 +0000 2019,0,nd,Europe,RT @MoToSav1: Posting half naked pictures doesnt mean shes easy to fuck u guys be postin guns nd knifes and still get robbed,kiahjonesx,,,,
+242,Sun Jul 21 13:04:22 +0000 2019,0,nd,Europe,im nothing but skin nd bone now ,hoodlumceline,,,,
+243,Sun Jul 21 13:02:40 +0000 2019,0,nd,Europe,RT @Sw_Cuurls: I aint got time to be bonding one minute Nd next minute we dont talk,alanazro,,,,
+244,Sun Jul 21 13:01:17 +0000 2019,0,nd,Europe,Tokyo is pretty annoying at times,Daniel_ND_,,,,
+245,Sun Jul 21 12:58:43 +0000 2019,17,nd,Europe,"Kaira:made for each other 
+I nominate @nayab_kinza @KillerxxxFrost @Adz_1998 guys make a kaira edit wid tag https://t.co/oKidDRSsuW",RukhieLuvzKaira,,,,
+246,Sun Jul 21 12:56:13 +0000 2019,1,nd,Europe,"Went to some next level uni partys/festivals nd met everyone Ive been thinking bout recently aha, even met Marco Minnemann x",QCHXXL,,,,
+247,Sun Jul 21 12:51:49 +0000 2019,1,nd,Europe,@livcoldwell_ Same baby but were both on to bigger nd better things now x,laurajayeallen,,,,
+248,Sun Jul 21 12:49:07 +0000 2019,0,nd,Europe,"RT @AllieRenison: Ultimately, future of the UK's relationship w/EU is of utmost consequence to many in the Conservative Party. I am convinc",VernonBaseley,,,,
+249,Sun Jul 21 12:47:45 +0000 2019,0,nd,Europe,"@JTonYouTube So true lmao, I had raiders revenge Nd ghoul trooper but I broke I PS4 a few months back ",finleeheapp,,,,
+250,Sun Jul 21 12:41:18 +0000 2019,0,nd,Europe,"RT @Isabgah: Im not from a Rich family but my parents are not extremely Poor, I wasnt raised with Wealth and Luxury but the way I was rai",NazeerAbubakar7,,,,
+251,Sun Jul 21 12:36:34 +0000 2019,0,nd,Europe,"@naz4198 Sir, I have 600 followers nd u have 1.7k, that is more than twice the amount I have",Jvhxl,,,,
+252,Sun Jul 21 12:33:59 +0000 2019,0,nd,Europe,Nd c nd,amandamarolenta,,,,
+253,Sun Jul 21 12:32:50 +0000 2019,0,nd,Europe,RT @bampshi: Baby boy baby https://t.co/zwY4jWymJN,REWONDERL_ND,,,,
+254,Sun Jul 21 12:27:02 +0000 2019,0,nd,Europe,In forme Ble 2 nd best player in the world behind the goat,ECommeny,,,,
+255,Sun Jul 21 12:21:02 +0000 2019,0,nd,Europe,"This job was a tidy up job as someone before flung it in with plastic pipework, not clipped and just a right mess. https://t.co/zUZaXeDprY",plumberparts,,,,
+256,Sun Jul 21 12:20:00 +0000 2019,23,nd,Europe,nd this boy has the purest heart ever that deserves the whole world . he worked his ass off to get that spot on top https://t.co/BkCAxu3MsO,hyeon6s,,,,
+257,Sun Jul 21 12:16:42 +0000 2019,1,nd,Europe,"hotel all booked for dereham away in the trophy, yeltz on tour nd all that",jawsjawsjack,,,,
+258,Sun Jul 21 12:16:09 +0000 2019,0,nd,Europe,"RT @VisitLeeds: Why not visit one of Leeds' many Art Galleries this summer?
+
+@leedsgallery at Munro House is bringing you an exhibition of",BeckettLibrary,,,,
+259,Sun Jul 21 12:15:49 +0000 2019,0,nd,Europe,@Juvenile99OG bUT he So prAgmaTIC,nd_yaho,,,,
+260,Sun Jul 21 12:06:33 +0000 2019,6,nd,Europe,"Ultimately, future of the UK's relationship w/EU is of utmost consequence to many in the Conservative Party. I am c https://t.co/dD17dZIzAM",AllieRenison,,,,
+261,Sun Jul 21 12:02:00 +0000 2019,0,nd,Europe,some random guy just started to talk to me abt my personal life on the way home so I had someone call me nd not get https://t.co/zrjIGqMkEA,hatari2600,,,,
+262,Sun Jul 21 11:59:52 +0000 2019,0,nd,Europe,"RT @LomyTm: My 3-nd thumbnail 
+       For @violoffdesign 
+
+ https://t.co/rdC0sowGPH",OrisonStudios,,,,
+263,Sun Jul 21 11:54:26 +0000 2019,5,nd,Europe,going to dinner with craigs nana nd i smell like a pint hopefully the smell of my sick when i whitey on some gammon will cover it,_deanyounger,,,,
+264,Sun Jul 21 11:42:07 +0000 2019,0,nd,Europe,"RT @_limerence_____: 
+
+WE ARE LOOSING!!
+
+lets make a voting chain for our boys, ill start. 
+
+#MTVHottest #BTS @BTS_twt 
+#MGMAVOTE #",ND_Dhiya,,,,
+265,Sun Jul 21 11:32:16 +0000 2019,15,nd,Europe,Half 12 in the afternoon Nd I went to make a cheese Nd garlic toastie bc who wouldnt and my dad turns around and w https://t.co/nFUr1dZsde,ssophieurwinx,,,,
+266,Sun Jul 21 15:07:54 +0000 2019,0,mitsotakis,Athens,"RT @zubeyirkoculu: Ironically, Kyriakos Mitsotakis, the new PM of Greece, fled into exile with his parents in Turkey when he was 1 year old",eierschnitzens,,,,
+267,Sun Jul 21 14:52:47 +0000 2019,0,mitsotakis,Athens,"RT @ekathimerini: Mitsotakis: the (10-year-old) anti-smoking law will be strictly implemented, starting with Parliament. ""I noticed, from y",RedRightHand2,Mitsotakis,0.717670738697052,0.10000000149011612,0.0
+268,Sun Jul 21 14:52:13 +0000 2019,0,mitsotakis,Athens,RT @ekathimerini: Mitsotakis: Greeks abroad will be able to vote in their place of residence. Measure must pass by a two-thirds majority.,RedRightHand2,Mitsotakis,0.09057305753231049,0.10000000149011612,-0.10000000149011612
+269,Sun Jul 21 14:49:12 +0000 2019,0,mitsotakis,Athens,Greece's new Prime Minister Kyriakos Mitsotakis vows growth https://t.co/8Gs6wdBO0f,makisstasinos,,,,
+270,Sun Jul 21 13:52:41 +0000 2019,0,mitsotakis,Athens,"RT @ekathimerini: Mitsotakis: we are not enemies, we do not seek each other's political demise. The era of rage is over. And let us celebra",RedRightHand2,Mitsotakis,0.2826380431652069,0.0,0.0
+271,Sun Jul 21 13:50:25 +0000 2019,0,mitsotakis,Athens,"Greek PM Mitsotakis Promises Tax Cuts, Economic Development and Diaspora Vote https://t.co/otegNgyCkD #Greece #news",GreeceOutsideIn,,,,
+272,Sun Jul 21 13:42:29 +0000 2019,0,mitsotakis,Athens,"RT @ekathimerini: Mitsotakis: regarding Turkey, our position is a dialogue on the basis of international law without rhetorical excesses li",marthaki,Mitsotakis,0.11628851294517517,0.0,0.0
+273,Sun Jul 21 10:50:21 +0000 2019,0,mitsotakis,Athens,PM Mitsotakis announces generous tax cuts incl. properties ENFIA https://t.co/QLxQ1cshF7 #Greece #news,GreeceOutsideIn,Mitsotakis,0.38991779088974,0.10000000149011612,0.10000000149011612
+274,Sun Jul 21 10:15:49 +0000 2019,0,mitsotakis,Athens,"RT @ekathimerini: Mitsotakis' top priorities: ease tax burden, create jobs https://t.co/7oYwCyTlLP https://t.co/f0fKbB6UdR",NikeMorgan,Mitsotakis,0.1638670563697815,0.30000001192092896,0.30000001192092896
+275,Sun Jul 21 09:12:43 +0000 2019,0,mitsotakis,Athens,RT @ekathimerini: Mitsotakis: our Green Agenda includes ban on one-use plastics from 2021; energy autonomy for small islands; renewal of bu,EZR_news,Mitsotakis,0.11097903549671173,0.0,0.0
+276,Sun Jul 21 09:11:41 +0000 2019,0,mitsotakis,Athens,"RT @ekathimerini: Mitsotakis: from 2020, we will be able to negotiate more realistic fiscal surpluses. We will pay back our debts from the",EZR_news,Mitsotakis,0.24598915874958038,0.0,0.0
+277,Sun Jul 21 08:05:21 +0000 2019,0,mitsotakis,Athens,"RT @ekathimerini: Mitsotakis: education is linked with the economy. Universities will decide how many incoming students to accept, not the",TheKarmiDance,Mitsotakis,0.14159344136714935,0.10000000149011612,0.10000000149011612
+278,Sun Jul 21 02:30:21 +0000 2019,0,mitsotakis,Athens,Greece's new Prime Minister Kyriakos Mitsotakis vows growth https://t.co/u82dfcd7UV #Greece #news,GreeceOutsideIn,,,,
+279,Sat Jul 20 23:43:38 +0000 2019,0,mitsotakis,Athens,RT @TornosNewsCom: Newly elected Greek PM Mitsotakis to announce immediate tax cuts https://t.co/s7119fXSWI https://t.co/4MwnirBXw7,TornosNewsCom,Mitsotakis,0.11253467947244644,0.20000000298023224,0.20000000298023224
+280,Sat Jul 20 23:40:03 +0000 2019,0,mitsotakis,Athens,"Greece's Prime Minister Kyriakos Mitsotakis, gives a thump up to Finance Minister , during a parliamentary session https://t.co/usc5fhVR4f",JLIAKOSPHOTOS,,,,
+281,Sat Jul 20 22:59:30 +0000 2019,0,mitsotakis,Athens,"#Greece: Mitsotakis' top priorities: ease tax burden, create jobs https://t.co/5yvMWLJuXT
+First step: A cut in the https://t.co/iyFO6NJQRB",DimoYagcioglu,Mitsotakis,0.11990591138601303,0.10000000149011612,0.10000000149011612
+282,Sat Jul 20 22:50:21 +0000 2019,0,mitsotakis,Athens,New PM Mitsotakis announces his top priorities for GREECE https://t.co/bxns0qdbg6 #Greece #news,GreeceOutsideIn,Mitsotakis,0.4582509398460388,0.6000000238418579,0.30000001192092896
+283,Sat Jul 20 22:46:29 +0000 2019,69,mitsotakis,Athens,"Ironically, Kyriakos Mitsotakis, the new PM of Greece, fled into exile with his parents in Turkey when he was 1 yea https://t.co/pssfizo2tV",zubeyirkoculu,,,,
+284,Sat Jul 20 21:04:52 +0000 2019,0,mitsotakis,Athens,RT @ggoufas: Greeces 2020 budget will show the countrys fiscal balance isnt disrupted nor are the primary surplus targets of the prev g,GreekAnalyst,,,,
+285,Sat Jul 20 21:04:22 +0000 2019,4,mitsotakis,Athens,Greeces 2020 budget will show the countrys fiscal balance isnt disrupted nor are the primary surplus targets of https://t.co/93BHsF9qqo,ggoufas,,,,
+286,Sat Jul 20 20:56:02 +0000 2019,0,mitsotakis,Athens,"RT @naftemporiki_en: #Mitsotakis unveils reform-heavy, pro-market policy statements in Parliament address #Greece #vouli # (Full) http",naftemporikigr,,,,
+287,Sat Jul 20 20:30:17 +0000 2019,0,mitsotakis,Athens,Newly elected GREEK PM Mitsotakis to announce immediate tax cuts https://t.co/XI752b8jJN #Greece #news,GreeceOutsideIn,Mitsotakis,0.13953571021556854,0.20000000298023224,0.20000000298023224
+288,Sat Jul 20 15:32:01 +0000 2019,0,mitsotakis,Thessaloniki,@OmairaGill No! The gods are neutral! Mitsotakis is Gandemis!,ANDKONLAS,Mitsotakis,0.039023708552122116,0.0,0.0
+289,Sat Jul 20 15:30:55 +0000 2019,0,mitsotakis,Thessaloniki,@OmairaGill Escape!!! As far as Mitsotakis is prime minister its just the beginning! Santorinis vulcano is coming next!!!,ANDKONLAS,Mitsotakis,0.4337199926376343,0.0,0.0
+290,Wed Jul 17 12:22:28 +0000 2019,0,mitsotakis,Thessaloniki,"RT @asteris: The Mitsotakis govt follows the Trump playbook, reversing progressive policies https://t.co/n1u2HYTJAb",keeptalkingGR,,,,
+291,Wed Jul 17 11:12:13 +0000 2019,1,mitsotakis,Thessaloniki,"The Mitsotakis govt follows the Trump playbook, reversing progressive policies https://t.co/n1u2HYTJAb",asteris,Mitsotakis,0.3939046561717987,0.0,0.0
+292,Mon Jul 15 19:00:14 +0000 2019,0,mitsotakis,Thessaloniki,"i wonder if, in the Greek language press, Mitsotakis is quoted addressing the deep structural barriers that stand i https://t.co/nqZlgxADVr",joelhdz,Mitsotakis,0.13631364703178406,0.0,0.0
+293,Sat Jul 13 14:56:25 +0000 2019,0,mitsotakis,Thessaloniki,"RT @HellenismToday: Trump Congratulates Mitsotakis, U.S. Puts Arm Around Greece - The National Herald @realDonaldTrump @kmitsotakis @S",kleo_2019,,,,
+294,Sat Jul 13 13:50:43 +0000 2019,0,mitsotakis,Thessaloniki,"This photo is dedicated to Greek PM Mr. Kyriakos Mitsotakis and his partner Minister Mr. Vroutsis. They know why, b https://t.co/16y5WAkT52",GeorgeDoudos,,,,
+295,Sat Jul 13 11:16:38 +0000 2019,0,mitsotakis,Thessaloniki,RT @teacherdude: Greece's new 'reformist' PM K.Mitsotakis defending his decision in include just 5 women in his 51 seat cabinet. Guess what,monkey_13th,,,,
+296,Sat Jul 13 08:04:23 +0000 2019,3,mitsotakis,Thessaloniki,"Trump Congratulates Mitsotakis, U.S. Puts Arm Around Greece - The National Herald @realDonaldTrump @kmitsotakis https://t.co/0eh4Y9ZwpP",HellenismToday,,,,
+297,Sun Jul 21 15:12:16 +0000 2019,0,mitsotakis,Europe,RT @New_Europe: The new reality for Greece under the leadership of Kyriakos Mitsotakis https://t.co/OiKzn6Cvln https://t.co/j8uklEdBHb,GreeceOutsideIn,,,,
+298,Sun Jul 21 15:12:09 +0000 2019,0,mitsotakis,Europe,The new reality for Greece under the leadership of Kyriakos Mitsotakis https://t.co/OiKzn6Cvln https://t.co/j8uklEdBHb,New_Europe,,,,
+299,Sun Jul 21 13:15:55 +0000 2019,1,mitsotakis,Europe,Why do humans cause so much anguish? Pleasesign To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santo https://t.co/gGDQXbuHPN,Noodle2010,,,,
+300,Sun Jul 21 13:15:01 +0000 2019,1,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/bistdhuzWF via @UKChange,PeterEl57863736,,,,
+301,Sun Jul 21 12:44:18 +0000 2019,0,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys https://t.co/yRuVCpMSwt via @ChangeAUS,Veganforanimal1,,,,
+302,Sun Jul 21 12:06:22 +0000 2019,0,mitsotakis,Europe,RT @KadmaerJessy: To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/4t5kI9wG,Lily06986890,,,,
+303,Sun Jul 21 12:01:39 +0000 2019,0,mitsotakis,Europe,RT @GreeceinUK: .@PrimeministerGR Mitsotakiss priority is a reform of #Greeces complex tax system to create a more pro-business environme,GreekAnalyst,,,,
+304,Sun Jul 21 12:00:35 +0000 2019,8,mitsotakis,Europe,.@PrimeministerGR Mitsotakiss priority is a reform of #Greeces complex tax system to create a more pro-business e https://t.co/QhaJO4i5f7,GreeceinUK,,,,
+305,Sun Jul 21 09:35:39 +0000 2019,0,mitsotakis,Europe,PM Mitsotakis announces generous tax cuts incl. properties ENFIA https://t.co/xq5X8jhY0S,spe1977,Mitsotakis,0.5046210289001465,0.10000000149011612,0.10000000149011612
+306,Sun Jul 21 08:59:52 +0000 2019,0,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/17QqADhS5r via @Change,Praesensabsens,,,,
+307,Sun Jul 21 08:10:45 +0000 2019,0,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/GwXR2kdBZs via @UKChange,JanWhitehouseUK,,,,
+308,Sun Jul 21 07:48:42 +0000 2019,0,mitsotakis,Europe,"#Greece - ""Mitsotakis on #Cyprus: 'We do not forget the victims of the invasion'"" - #Turkey  https://t.co/RejClm0sPt",Kostian_V,Mitsotakis,0.13063575327396393,0.0,0.0
+309,Sun Jul 21 07:43:52 +0000 2019,0,mitsotakis,Europe,RT @SimonTilford: This should be a wake-up call to those who breathlessly welcomed the Mitsotakis government. https://t.co/pI1IXJJELV,pdemetriades,Mitsotakis,0.09141744673252106,0.0,0.0
+310,Sun Jul 21 07:42:00 +0000 2019,0,mitsotakis,Europe,Greece's new Prime Minister Kyriakos Mitsotakis vows growth https://t.co/DPQbUNP9Qz,helenyg,,,,
+311,Sun Jul 21 06:38:14 +0000 2019,2,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/k80ZogikY4 via @UKChange,AlwynGlover,,,,
+312,Sun Jul 21 03:10:43 +0000 2019,0,mitsotakis,Europe," #Greece's new Prime Minister Kyriakos Mitsotakis vows growth  
+https://t.co/Bl79LLIwuw",EuropeUnion,,,,
+313,Sun Jul 21 03:05:52 +0000 2019,0,mitsotakis,Europe,Prime Minister Kyriakos Mitsotakis has said Greece will ease taxes on its citizens while upholding a... https://t.co/tbvsfq6tlX,EUwatchers,,,,
+314,Sun Jul 21 03:00:23 +0000 2019,0,mitsotakis,Europe,Greeces new Prime Minister Kyriakos Mitsotakis vows growth https://t.co/hjZXnNjRnl,Follementbijoux,,,,
+315,Sun Jul 21 02:50:10 +0000 2019,0,mitsotakis,Europe,Greeces new Prime Minister Kyriakos Mitsotakis vows growth https://t.co/lhMjPrSUDT,Follementbijoux,,,,
+316,Sun Jul 21 02:26:48 +0000 2019,0,mitsotakis,Europe,RT @Graziellajune: To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/KrE0bpS,JChokonen,,,,
+317,Sun Jul 21 01:20:42 +0000 2019,0,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/KrE0bpS4ic via @UKChange,Graziellajune,,,,
+318,Sat Jul 20 23:26:51 +0000 2019,0,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Firma la petizione! https://t.co/QPFTYf3MRO,deborahlucia1,,,,
+319,Sat Jul 20 23:17:28 +0000 2019,0,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/8hePPXayGZ via @UKChange,patla_rina,,,,
+320,Sat Jul 20 22:30:19 +0000 2019,0,mitsotakis,Europe,New Greek Prime MinisterKyriakos Mitsotakisis moving into policy implementation mode https://t.co/gIRvL4LHdX via @bpolitics,kpappas1955,,,,
+321,Sat Jul 20 21:15:10 +0000 2019,1,mitsotakis,Europe,@PappasXA Mitsotakis SA company....,tas_kyr,,,,
+322,Sat Jul 20 21:11:23 +0000 2019,0,mitsotakis,Europe,"@ekathimerini @p_von_eulenburg Mr Mitsotakis, when your greek soldiers march on Greek national day, they shout ""we' https://t.co/Jyzhcl4tGK",hakanulutepe,Mitsotakis,0.2361801266670227,0.10000000149011612,0.0
+323,Sat Jul 20 19:24:53 +0000 2019,5,mitsotakis,Europe,To the prime minister Kyriakos Mitsotakis: Stop the abuse of Santorini Donkeys - Sign the Petition! https://t.co/4t5kI9wGsC via @Change,KadmaerJessy,,,,
+324,Sat Jul 20 13:10:54 +0000 2019,0,mitsotakis,Europe,"RT @AdamsonPaul: The immediate challenges for #mitsotakis and his new moderate, centre-right government https://t.co/EAAXIRXqL4 @WalshFuhri",AdamsonPaul,,,,
+325,Sat Jul 20 13:09:49 +0000 2019,0,mitsotakis,Europe,RT @esharpmag: Will the moderate voices prevail in Greek politics? https://t.co/xXuGRSLeba @WalshFuhring @JHU_BIPR #mitsotakis,esharpmag,,,,
+326,Sat Jul 20 00:32:10 +0000 2019,0,mitsotakis,Europe,RT @ESM_Press: Greek Prime Minister Kyriakos Mitsotakis met @ESM_Press Managing Director Klaus Regling in Athens today @PrimeministerGR (st,ekritik,,,,
+327,Fri Jul 19 23:45:27 +0000 2019,0,mitsotakis,Europe,RT @POLITICOEurope: Margaritis Schinas has been nominated by Greek Prime Minister Kyriakos Mitsotakis as the country's next commissioner ht,Luis_Piselli,,,,
+328,Fri Jul 19 20:20:46 +0000 2019,0,mitsotakis,Europe,"RT @TheEconomist: Kyriakos Mitsotakis comes from an old political dynasty. Unfortunately, the old Greek establishment has not led the count",DionysisFt,,,,
+329,Fri Jul 19 15:25:59 +0000 2019,0,mitsotakis,Europe,"RT @YiannisBab: Ah, the Mitsotakis curse... 
+
+(An inside joke for Greeks, as Mitsotakis snr was considered a bit of a jinx) https://t.co/3m",LenaFolk,Mitsotakis,0.22904226183891296,1.0,-0.5
+330,Fri Jul 19 13:15:31 +0000 2019,0,mitsotakis,Europe,"Mitsotakis victory to shore up EU southeast flank | ""Mitsotakis, it appears, is looking to take a different tack th https://t.co/OxVniug8GN",pspengle,Mitsotakis,0.24602927267551422,0.5,0.20000000298023224
+331,Fri Jul 19 12:00:15 +0000 2019,26,mitsotakis,Europe,"Ah, the Mitsotakis curse... 
+
+(An inside joke for Greeks, as Mitsotakis snr was considered a bit of a jinx) https://t.co/3muczaGwjx",YiannisBab,Mitsotakis,0.2915966808795929,1.0,-0.5
+332,Fri Jul 19 10:49:23 +0000 2019,0,mitsotakis,Europe,@LiberalGr Don't worry. Mitsotakis is in charge now. All of you are going to get a job. Just you have to wait a bit https://t.co/k8qprw7B7S,Tony95396125,Mitsotakis,0.12981396913528442,0.0,0.0
+333,Fri Jul 19 10:45:20 +0000 2019,9,mitsotakis,Europe,This should be a wake-up call to those who breathlessly welcomed the Mitsotakis government. https://t.co/pI1IXJJELV,SimonTilford,Mitsotakis,0.1704714149236679,0.10000000149011612,0.10000000149011612
+334,Fri Jul 19 08:40:38 +0000 2019,0,mitsotakis,Europe,"The immediate challenges for #mitsotakis and his new moderate, centre-right government https://t.co/EAAXIRXqL4 https://t.co/zTYN6RAlmG",AdamsonPaul,,,,
+335,Fri Jul 19 08:37:18 +0000 2019,1,mitsotakis,Europe,Will the moderate voices prevail in Greek politics? https://t.co/xXuGRSLeba @WalshFuhring @JHU_BIPR #mitsotakis,esharpmag,,,,
+336,Fri Jul 19 08:30:31 +0000 2019,1,mitsotakis,Europe,"Will the moderate voices prevail in Greek politics? Kyriakos Mitsotakis, prime minister of Greece. Photo: Shutterst https://t.co/RuO7RfLESM",EUwatchers,,,,
+337,Thu Jul 18 23:27:16 +0000 2019,0,mitsotakis,Europe,"RT @EURACTIV: That the Mitsotakis government changed its mind on the #NorthMacedonia deal is to be welcomed. 
+
+But it's time to apologise f",alex_owski,Mitsotakis,0.08202566206455231,0.20000000298023224,-0.20000000298023224

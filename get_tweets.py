@@ -14,7 +14,7 @@ import string
 # set variables
 printable = list(string.printable)
 
-def create_queries(twitter_credentials, parameters):
+def create_queries(twitter_credentials, parameters, number_of_queries):
 
     # Load credentials from json file
     with open(twitter_credentials, "r") as file:
@@ -41,7 +41,7 @@ def create_queries(twitter_credentials, parameters):
             geo_query += "mi"
             query = {
                 'q': keyword,
-                'count': 2,
+                'count': number_of_queries,
                 'lang': 'en',
                 'geocode': geo_query
             }
@@ -116,8 +116,9 @@ parameters = {"geo":
               ["syriza","tsipras","nea dimokratia","nd","mitsotakis"]}
 			  
 names_of_interest = ["Alexis","Tsipras","Kyriakos","Kiriakos","Mitsotakis"]
+number_of_queries = 1000
 
-twitter, queries, inverse_geo_mapping = create_queries(twitter_credentials,parameters)
+twitter, queries, inverse_geo_mapping = create_queries(twitter_credentials,parameters,number_of_queries)
 df = obtain_tweets(twitter, queries, inverse_geo_mapping)
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="google_credentials.json"
 client = language.LanguageServiceClient()
