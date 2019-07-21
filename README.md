@@ -5,3 +5,6 @@ Working prototype. Have only added tweets for one week. Ideas to move forward:
 2. Add more keywords.
 3. Improve the web app.
 4. Host the app on a website.
+
+![](app.gif)
+
